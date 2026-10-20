@@ -1,0 +1,7 @@
+{
+  "name": "nightshift-detective",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.11.0",
+  "scripts": { "dev": "node scripts/serve.mjs", "build": "node scripts/build.mjs", "check": "node --check dist/app.js" }
+}
